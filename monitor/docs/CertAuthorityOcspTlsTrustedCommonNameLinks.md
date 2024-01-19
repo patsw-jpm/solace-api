@@ -1,0 +1,10 @@
+
+# CertAuthorityOcspTlsTrustedCommonNameLinks
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**uri** | **String** | The URI of this OCSP Responder Trusted Common Name object. |  [optional]
+
+
+
